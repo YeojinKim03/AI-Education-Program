@@ -1,4 +1,4 @@
-# AI-study
+# AI SCHOOL by DH.LIM
 
 220801 ~ 220812 
 WISET AI 교육
